@@ -2,7 +2,7 @@
 Test JWT authentication using golang with Echo framework
 
 - Token expiration time
-   - 30 sec
+  - 30 sec
 
 
 # APIs

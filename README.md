@@ -9,7 +9,15 @@ Test JWT authentication using golang with Echo framework
 - N/A
 
 #### HTTP Body
-
+|   Key    | Req? |    Description     |
+| -------- | ---- | ------------------ |
+| name     | Y    | User name to login |
+| password | Y    | User password      |
 
 ### Response
+#### Success
+- HTTP Status: `200`
+- Body: N/A
 
+#### Error
+- WIP
